@@ -1,5 +1,5 @@
 # Legacy-client-src-uncracked-
-I deobfuscation legacy by fun :)
+I deobfuscated legacy by fan :)
 
 <bw>
 
