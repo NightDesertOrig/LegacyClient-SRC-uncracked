@@ -1,4 +1,4 @@
-# Legacy-client-src (uncracked)
+# LegacyClient-SRC (uncracked)
 I deobfuscated legacy by fan :)
 
 <bw>
